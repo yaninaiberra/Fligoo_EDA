@@ -180,5 +180,4 @@ def feature_importance(model, feature_list):
     plt.gca().spines['left'].set_visible(False)
     plt.gca().spines['right'].set_visible(False)
     plt.gcf().subplots_adjust(bottom=0.3);
-    
 
